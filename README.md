@@ -67,7 +67,7 @@ Now change the code so that you get the following output:
 
 **Tip:** Consult the [ruby Array documentation](https://ruby-doc.org/core-2.4.1/Array.html) for the correct method or function to use.
 
-***Bonus:*** Find at least three different solutions for this last change.
+**Bonus:** Find at least three different solutions for this last change.
 
  	
 
