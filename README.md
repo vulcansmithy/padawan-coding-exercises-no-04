@@ -45,9 +45,9 @@ So that you get the following output:
 
 **Tip:** Consult the [ruby Array documentation](https://ruby-doc.org/core-2.4.1/Array.html) for the correct method or function to use.
 
-7. Again, copy you the finished ruby program in ```exercise_6.rb``` and copy it as ```exercise_7.rb```.
+7. Again, copy the finished ```exercise_6.rb``` to ```exercise_7.rb```.
 
-Now change the code that you just added so that you get the following output:
+Now change the code so that you get the following output:
 
 ```ruby
 [10, 8, 6, 4, 2]
@@ -55,7 +55,7 @@ Now change the code that you just added so that you get the following output:
 
 **Tip:** Consult the [ruby Array documentation](https://ruby-doc.org/core-2.4.1/Array.html) for the correct method or function to use.
 
-**Note:** The method select that you used in the last exercise returns an array. On this array (the return value) you can use another method, by, again, just appending a dot . and the method name to it, i.e., to the end of the line.
+**Note:** The method select that you used in the last exercise returns an array. On this array (the returned value) you can use another method by appending another dot ```.```, and the method that would produce the output ```[10, 8, 6, 4, 2]```.
 
 **Note:** There is another method that reverses the order of the array. You can find it by googling for “ruby array reverse”.	
 
