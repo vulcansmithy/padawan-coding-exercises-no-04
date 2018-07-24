@@ -29,6 +29,21 @@ So that, when you run  your code, e.g., ```ruby exercise_04.rb```, you get the f
 99
 ```
 
+6. Create a new ruby file called ```exercise_06.rb```, and fill in the following line:
+
+```ruby
+numbers = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+# your code here...
+puts numbers.inspect
+```
+
+So that you get the following output:
+
+```ruby
+[2, 4, 6, 8, 10]
+```
+
+7. 
 
 
 
