@@ -9,7 +9,7 @@
 "Ruby<3<3<3"
 ```
 
-4. Create a ruby application called exercise_04.rb. Fill it in with the following lines:
+4. Create a ruby application called ```exercise_04.rb```. Fill it in with the following lines:
 
 ```ruby
 numbers = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
@@ -45,7 +45,7 @@ So that you get the following output:
 
 **Tip:** Consult the [ruby Array documentation](https://ruby-doc.org/core-2.4.1/Array.html) for the correct method or function to use.
 
-7. Again, copy the finished ```exercise_6.rb``` to ```exercise_7.rb```.
+7. Again, copy the finished ```exercise_06.rb``` to ```exercise_07.rb```.
 
 Now change the code so that you get the following output:
 
@@ -68,6 +68,20 @@ Now change the code so that you get the following output:
 **Tip:** Consult the [ruby Array documentation](https://ruby-doc.org/core-2.4.1/Array.html) for the correct method or function to use.
 
 **Bonus:** Find at least three different solutions for this last change.
+
+9.  Create a new file called ```exercise_09.rb```, and fill the following lines:
+
+```ruby
+dictionary = { :one => "ichi", :two => "ni", :three => "san" }
+# your code here...
+puts dictionary[:two]	
+```
+
+So that it prints out
+
+```
+ni
+```
 
  	
 
