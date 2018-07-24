@@ -82,6 +82,20 @@ So that it prints out
 ni
 ```
 
+10. Create a new file called ```exercise_10.rb``` and fill in the following line:
+
+```ruby
+dictionary = { :one => "ichi", :two => "ni", :three => "san" }
+# your code goes here...
+puts dictionary[:four]
+```
+
+So that it prints out
+
+```
+shi
+```
+
  	
 
 
