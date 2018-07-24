@@ -9,7 +9,7 @@
 "Ruby<3<3<3"
 ```
 
-4. Create a ruby application called exercise_04.rb. Fill it in  with the following lines:
+4. Create a ruby application called exercise_04.rb. Fill it in with the following lines:
 
 ```ruby
 numbers = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
@@ -43,7 +43,22 @@ So that you get the following output:
 [2, 4, 6, 8, 10]
 ```
 
-7. 
+**Tip:** Consult the [ruby Array documentation](https://ruby-doc.org/core-2.4.1/Array.html) for the correct method or function to use.
+
+7. Again, copy you the finished ruby program in ```exercise_6.rb``` and copy it as ```exercise_7.rb```.
+
+Now change the code that you just added so that you get the following output:
+
+```ruby
+[10, 8, 6, 4, 2]
+```
+
+**Tip:** Consult the [ruby Array documentation](https://ruby-doc.org/core-2.4.1/Array.html) for the correct method or function to use.
+
+**Note:** The method select that you used in the last exercise returns an array. On this array (the return value) you can use another method, by, again, just appending a dot . and the method name to it, i.e., to the end of the line.
+
+**Note:** There is another method that reverses the order of the array. You can find it by googling for “ruby array reverse”.	
+
 
 
 
