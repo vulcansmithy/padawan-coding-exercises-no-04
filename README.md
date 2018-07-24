@@ -1,7 +1,7 @@
 ## Coding Exercises No. 04
 1. Go through the [ruby String documentation](https://ruby-doc.org/core-2.4.1/String.html) and look for a method or function that prepends or combine one string to another string. Using said method prepend the string "```Learning ```" to the string "```Ruby```".
 
-2. Go through the [ruby String documentation](https://ruby-doc.org/core-2.4.1/String.html) and look for a method or function that remove characteres from a string. Using said method, it turns the string "```Learning Ruby```" into the string "```Lrnng Rby```".
+2. Go through the [ruby String documentation](https://ruby-doc.org/core-2.4.1/String.html) and look for a method or function that remove characters from a string. Using said method, it turns the string "```Learning Ruby```" into the string "```Lrnng Rby```".
 
 3. There is a ruby String method that allows to justify a string, padding it with another string. Find said method and use it on the string "```Ruby```" together with "```<3```" so that you get the following string result:  
 
