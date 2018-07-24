@@ -13,7 +13,7 @@
 
 ```ruby
 numbers = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
-# your code here... 
+# your code goes here...
 ```
 
 So that, when you run  your code, e.g., ```ruby exercise_04.rb```, you get the following output  
@@ -33,7 +33,7 @@ So that, when you run  your code, e.g., ```ruby exercise_04.rb```, you get the f
 
 ```ruby
 numbers = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
-# your code here...
+# your code goes here...
 puts numbers.inspect
 ```
 
@@ -73,8 +73,7 @@ Now change the code so that you get the following output:
 
 ```ruby
 dictionary = { :one => "ichi", :two => "ni", :three => "san" }
-# your code here...
-puts dictionary[:two]	
+# your code goes here...
 ```
 
 So that it prints out
