@@ -57,7 +57,19 @@ Now change the code so that you get the following output:
 
 **Note:** The method select that you used in the last exercise returns an array. On this array (the returned value) you can use another method by appending another dot ```.```, and the method that would produce the output ```[10, 8, 6, 4, 2]```.
 
-**Note:** There is another method that reverses the order of the array. You can find it by googling for “ruby array reverse”.	
+**Note:** There is another method that reverses the order of the array. You can find it by googling for “ruby array reverse”.
+
+8. Again, copy the finished ```exercise_07.rb```, then change your code so that you get the following output:
+
+```ruby
+[10, 8, 4, 2]
+```
+
+**Tip:** Consult the [ruby Array documentation](https://ruby-doc.org/core-2.4.1/Array.html) for the correct method or function to use.
+
+***Bonus:*** Find at least three different solutions for this last change.
+
+ 	
 
 
 
