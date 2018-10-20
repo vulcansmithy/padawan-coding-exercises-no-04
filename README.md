@@ -26,7 +26,7 @@ So that, when you run  your code, e.g., ```ruby exercise_04.rb```, you get the f
 5. Copy ```exercise_04.rb``` to ```exercise_05.rb```, then open this new file. Add another line before the line that you just added, so that, when you run your code you get the following output:
 
 ```ruby
-99
+45
 ```
 
 6. Create a new ruby file called ```exercise_06.rb```, and fill in the following line:
